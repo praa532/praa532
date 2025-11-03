@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @praa532
-- 👀 I’m interested in Machine Learning  
-- 🌱 I’m currently learning Data Science
+- 👋 Hi, I’m Prashant
+- 👀 I’m interested in Machine Learning, Backend Systems,
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me mr.prashantkrprasad@gmail.com
 
